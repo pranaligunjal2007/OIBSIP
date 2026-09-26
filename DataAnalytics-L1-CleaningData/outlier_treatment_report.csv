@@ -1,0 +1,5 @@
+Column,Outliers Detected,Treatment,Reason
+Age,66,Retained,Values can represent legitimate passenger ages.
+Fare,116,Retained,Higher fares can represent legitimate first-class or group fares.
+SibSp,46,Retained,Higher family/spouse counts can be legitimate.
+Parch,213,Retained,Higher parent/child counts can be legitimate.
